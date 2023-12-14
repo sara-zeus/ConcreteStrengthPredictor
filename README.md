@@ -26,15 +26,3 @@ I've made a special notebook called `Regression_Models_with_Keras.ipynb`. It's l
 - Keras
 - Jupyter Notebook or Google Colab
 
-## Share Your Thoughts
-
-Got any ideas or found something interesting? Let me know! You can suggest changes or even make your own versions of these models.
-
-## Legal Stuff
-
-This project follows the MIT License. Check out the [LICENSE](LICENSE) file for more info.
-
----
-
-I'm super excited to show you how these prediction models work with Keras! Have any questions? Just ask! Enjoy exploring!
- 
